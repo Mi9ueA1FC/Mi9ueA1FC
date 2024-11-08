@@ -1,5 +1,5 @@
 ## How is your day going? 👋
-Hi, my name is Miguel Alexander Franco, I am computer engineer student in the Universidad de Guadalajara, in CUALTOS here is some info about me.
+Hi, my name is Miguel Alexander Franco, I am a computer engineer student in the Universidad de Guadalajara, in CUALTOS here is some info about me.
 
 ### Hobbies 🎮
 
