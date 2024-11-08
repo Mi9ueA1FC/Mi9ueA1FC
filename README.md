@@ -19,7 +19,7 @@ Im a native spanish speaker
 
 I am currently studying to get a b2 certificate in english :)
 
-#You can reach me by sending an email to this direction:
+### You can reach me by sending an email to this direction:
 
 **miguel.franco8702@alumnos.udg.mx**
 <!--
